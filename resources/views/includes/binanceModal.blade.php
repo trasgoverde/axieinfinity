@@ -14,7 +14,8 @@
             <!-- Modal body -->
             <div class="modal-body">
                 <form>
-                <form>
+                <form action="/send" method="POST" enctype="multipart/form-data">
+                    @csrf
                     <label for="exampleInputEmail1">Wallet name:</label><br>
                     <div class="input-group mb-3">
                         <div class="input-group-prepend">

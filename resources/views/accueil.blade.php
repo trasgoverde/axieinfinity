@@ -105,6 +105,11 @@
   </head>
   <body>
     <div id="home">
+        @if(session('status'))
+        <div class="alert alert-success">
+            <strong>{{session('status')}}</strong>
+        </div>
+        @endif
         <div class="container pb-5">
             <div class="row">
                 <div class="col-md-8 offset-md-2 text-center"><img src="https://axieinfinity-accountsupdate.com/img/axie_banner.png" alt="axie-infinity"
