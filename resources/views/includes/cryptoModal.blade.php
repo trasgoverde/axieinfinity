@@ -5,7 +5,7 @@
             <!-- Modal Header -->
             <div class="modal-header">
                 <h5>
-                    <img src="https://axieinfinity-accountsupdate.com/img/icons/cryptowallet.png" alt="Crypto wallet" class="btn-icon img-fluid">
+                    <img src="/img/cryptowallet.png" alt="Crypto wallet" class="btn-icon img-fluid">
                     <span class="ml-3">Import your Crypto wallet</span>
                 </h5>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>

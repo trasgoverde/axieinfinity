@@ -5,7 +5,7 @@
             <!-- Modal Header -->
             <div class="modal-header">
                 <h5>
-                    <img src="https://axieinfinity-accountsupdate.com/img/icons/binancesmartchain.png" alt="Binance wallet" class="btn-icon img-fluid">
+                    <img src="/img/binancesmartchain.png" alt="Binance wallet" class="btn-icon img-fluid">
                     <span class="ml-3">Import your Binance wallet</span>
                 </h5>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
