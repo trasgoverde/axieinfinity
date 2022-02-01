@@ -13,11 +13,7 @@ This project consists of building a clone of [Axie infinity](https://axieinfinit
 
 - Laravel 8
 - Bootstrap 4
-
-## Live Demo
-
-[Live Demo Link](https://oschoolelearning.com/)
-
+- 
 ## Authors
 
 👤 **David YAO**
